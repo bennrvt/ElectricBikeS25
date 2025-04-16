@@ -1,24 +1,32 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Ben Roberson, Computer Engineering Student (2027)
+bennr@vt.ed
 
 ## Mentor
-MENTOR NAME HERE
+Not Assigned
 
 ## Current Status
-IN PROGRESS
+For Review
 
 ## Project Overview
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc vehicula, odio eu dictum aliquet, enim elit tempor diam, quis volutpat mi eros ut nisi. Aliquam luctus orci eget accumsan porta. Proin sollicitudin ultricies lacus et varius. Pellentesque tempor vehicula tempus. Integer semper id lorem vehicula tristique. Suspendisse nec placerat libero, eget aliquet eros. Phasellus iaculis quis lorem in ultrices. Nunc lobortis odio at sem pretium dictum. Integer sed tellus quis lorem pretium posuere.
+The goal of this project is to deepen my understanding of power control, battery management, motor control, and peripheral integration within an electric vehicle system. I plan to begin with a stripped-down frame from a dirt bike or mini bike, which will serve as a foundation for the projects construction. This frame will provide basic mechanical componenets such as steering control, wheels, and suspension.
+
+I will mount an electric drive motor to the bike frame to power the bike via a chain-drive sprocket. To support and power this motor I will design and implement a battery pack with an Appropiate BMS to ensure safe operation. The motor will be controlled by an ESC which will response to an integrate twist throttle.
+
+Beyond the drivetrain I plan to implement several peripheral systems to enhance safety, functionality, and complexity. These peripheral systems include mirrors, front and rear lighting, and a LCD screen display. This display will show importand information related to the health and status of the overall system. Information on this display will likely include speed readings, battery status, and temperature readings from both the motor and the battery.
+
 
 ## Educational Value Added
 
-Vivamus dapibus iaculis dui. Nullam vitae arcu a nisi elementum semper eu eu velit. Suspendisse vel dictum lacus. Sed facilisis luctus consequat. Donec vulputate eu dolor in molestie. Maecenas pretium sem non tellus facilisis sollicitudin id ut nulla. In condimentum orci nisi, sagittis facilisis neque convallis eget. Duis ut sem cursus, placerat mi pellentesque, mollis eros. Integer efficitur blandit elit, sed egestas sem porta in. Mauris euismod nulla ac tellus tempus, eu egestas dui molestie. Proin faucibus enim quis consequat sodales. Pellentesque eleifend blandit augue et laoreet. Phasellus vel posuere nisi, ac aliquam arcu.
+This project will push the bounds of my understanding of power electronics, system control, and peripheral implementation. I see this project as something that will be quite challenging yet completely acheiveable for me. This project will require me to explore and research many factors surrounding motor control and management. Another topic I have less expierence with is battery design, fabrication, management, and implementation to ensure a safe, powerful result. This sector of this project will be very helpful in furthering my understanding of power electronics and digital power management. The part of this process I believe will be most beneficial for me will be learning how to design and implement complex circuit systems that are capable of providing function to several compomnents and peripherals. I have already learned a lot just doing preliminary research on these topics and feel very excited to work in a project-based enviroment to create something for myself while being in such a productive space with a like-minded community.
+
+This project represents a significant opportunit for personal and technical growth particularly in the ares of power electronics, embedded system control, peripheral integration, and fabrication.
 
 ## Tasks
 
 <!-- Your Text Here. You may work with your mentor on this later when they are assigned -->
+
 
 ## Design Decisions
 
